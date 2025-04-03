@@ -14,7 +14,7 @@ public class EmployeePensionCLIAPP {
 
     public static void main(String[] args) {
         printAllEmployees();
-        System.out.println("_---------------------------------------------");
+        System.out.println("_--------------------------------------------------------------");
         printQuarterlyUpcomingEnrollees();
     }
 
